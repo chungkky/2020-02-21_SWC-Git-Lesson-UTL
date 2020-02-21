@@ -12,9 +12,9 @@ Etherpad URL: https://pad.carpentries.org/utfeb2020
 
 
 ### Userful Resources
-* SWC's Version Control with Git Lesson (CLI) https://swcarpentry.github.io/git-novice/
+* SWC's Version Control with Git Lesson https://swcarpentry.github.io/git-novice/
 * SWC Git Lesson Cheat Sheet https://swcarpentry.github.io/git-novice/reference
-* Git Cheat Sheet (CLI) https://services.github.com/resources/cheatsheets/
+* GitHub's Git Cheat Sheet https://github.github.com/training-kit/
 * Visualizing Git Concepts with D3 https://onlywei.github.io/explain-git-with-d3/
 * Collaborative Development Models/Workflows https://help.github.com/articles/about-collaborative-development-models/
 * Mozilla Science Working Open Workshop (WOW) lesson GitHub for Collaborating on Open Projects https://mozillascience.github.io/working-open-workshop/github_for_collaboration/
