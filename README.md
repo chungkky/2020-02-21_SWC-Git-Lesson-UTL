@@ -6,16 +6,18 @@
 **Instructor**  
 Kathy Chung <kky.chung@utoronto.ca>, Research Associate, Records of Early English Drama, UT  
 
-
-
-Etherpad URL: https://pad.carpentries.org/utfeb2020
+**Workshop Outline and Etherpad**  
+https://uoftcarpentries.github.io/2020-02-20-utsg/  
+https://pad.carpentries.org/utfeb2020
 
 
 ### Credits/Sources
 The cartoons:
 * PhD Comics "nofFinal.doc" http://phdcomics.com/comics/archive.php?comicid=1531
 * xkdc "Git" https://xkcd.com/1597/
-* xkdc "Git commit" https://xkcd.com/1296/
+* xkdc "Git commit" https://xkcd.com/1296/  
+
+Lesson:
 * SWC Lesson: Version Control with Git https://swcarpentry.github.io/git-novice/
 
 
@@ -34,7 +36,7 @@ The cartoons:
 * Creative Commons site with useful explanations about types of licenses you can use with your work https://creativecommons.org/share-your-work/licensing-examples/
   
   
-### Some Git Terminology/Jargon
+### Selected Git Terminology/Jargon
 #### Repos and Branches
 
 Term | Description
