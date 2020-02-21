@@ -16,10 +16,10 @@ The cartoons:
 * PhD Comics "nofFinal.doc" http://phdcomics.com/comics/archive.php?comicid=1531
 * xkdc "Git" https://xkcd.com/1597/
 * xkdc "Git commit" https://xkcd.com/1296/
+* SWC Lesson: Version Control with Git https://swcarpentry.github.io/git-novice/
 
 
 ### Some Userful Resources
-* SWC's Version Control with Git Lesson https://swcarpentry.github.io/git-novice/
 * SWC Git Lesson Cheat Sheet https://swcarpentry.github.io/git-novice/reference
 * GitHub's Git Cheat Sheet https://github.github.com/training-kit/
 * Visualizing Git Concepts with D3 https://onlywei.github.io/explain-git-with-d3/
